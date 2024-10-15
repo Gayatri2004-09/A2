@@ -7,4 +7,6 @@ hi
 good afternoon
 did you had lunch?
 good evening 
+good night
+sweet dreams 
 
